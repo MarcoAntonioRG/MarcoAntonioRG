@@ -1,11 +1,17 @@
 <div align="center">
   <!--<h1 align="center">Hello, I'm Marco 👋</h1>-->
   <h1 align="center">Hola, soy Marco 👋</h1>
+  <p align="center">
+  	<a href="https://github.com/MarcoAntonioRG"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+  	</a>
+  </p>
 </div>
 
 
 
-## Sobre mí
+
+
+## 💫 Sobre mí
 - 🗿 Estudiante recién egresado de Ingeniería en Computación
 - 💪 Apasionado por la ingeniería de software
 - 👨‍💻 Expandiendo mis conocimientos en desarrollo web
@@ -13,7 +19,7 @@
 
 <br>
 
-## Habilidades
+## 🛠️ Habilidades
 
 <p align="center">
   
@@ -53,12 +59,12 @@
 
 <br>
 
-## Proyectos Relevantes
+## 💻 Proyectos Relevantes
 
 <br>
 <br>
 
-## Contacto
+## 📌 Contacto
   ![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   ![](https://img.shields.io/badge/gmail%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
