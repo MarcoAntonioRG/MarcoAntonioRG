@@ -9,7 +9,7 @@
 - 🗿 Estudiante recién egresado de Ingeniería en Computación
 - 💪 Apasionado por la ingeniería de software
 - 👨‍💻 Expandiendo mis conocimientos en desarrollo web
-- 🔎📥 Actualmente estoy disponible para cursar mi práctica profesional o una pasantía, este es [mi currículum]()
+- 📄 Actualmente estoy buscando práctica profesional o una pasantía, [mi currículum]()
 
 <br>
 
@@ -21,8 +21,8 @@
 
     ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-%23306998.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - **Frameworks**:
 
@@ -58,29 +58,9 @@
 <br>
 <br>
 
-## <b> Contacto</b>
-<br>
-<div align='left'>
-
-  <ul>
-  
-  <li>
-    <a href="https://linkedin.com/in/marco-rg" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
-    </a>
-  </li>
-  
-  <br>
-  
-  <li>
-    <a href="mailto:marcoroman199@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" altt="Gmail" style="margin-bottom: 5px;" />
-    </a>
-  </li>
-  
-  </ul>
-
-</div>
+## Contacto
+  ![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  ![](https://img.shields.io/badge/gmail%20-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)
 
 <!--
 **MarcoAntonioRG/MarcoAntonioRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
