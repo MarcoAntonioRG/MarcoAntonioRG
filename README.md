@@ -9,7 +9,7 @@
 - 🗿 Estudiante recién egresado de Ingeniería en Computación
 - 💪 Apasionado por la ingeniería de software
 - 👨‍💻 Expandiendo mis conocimientos en desarrollo web
-- 📄 Actualmente estoy buscando práctica profesional o una pasantía, [mi currículum]()
+- 📄 Actualmente estoy buscando práctica profesional o una pasantía, [mi currículum](https://github.com/MarcoAntonioRG/Me.io/blob/main/Curriculum%20Practica.pdf)
 
 <br>
 
