@@ -61,6 +61,14 @@
 
 ## 💻 Proyectos Relevantes
 
+<div>
+  <p align="left">
+    <a href="https://github.com/MarcoAntonioRG/App-Rent-a-Car">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAntonioRG&repo=App-Rent-a-Car&theme=tokyonight" alt="GitHub Stats"/>
+    </a>
+  </p>
+</div>
+
 <br>
 <br>
 
