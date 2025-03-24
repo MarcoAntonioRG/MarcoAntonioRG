@@ -62,9 +62,12 @@
 ## 💻 Proyectos Relevantes
 
 <div>
-  <p align="left">
+  <p align="center">
     <a href="https://github.com/MarcoAntonioRG/App-Rent-a-Car">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAntonioRG&repo=App-Rent-a-Car&theme=tokyonight" alt="GitHub Stats"/>
+    </a>
+    <a href="https://github.com/MarcoAntonioRG/Sistema-de-Somnolencia">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcoAntonioRG&repo=Sistema-de-Somnolencia&theme=tokyonight"/>
     </a>
   </p>
 </div>
